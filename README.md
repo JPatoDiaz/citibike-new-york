@@ -18,8 +18,6 @@ Total de viajes (acumulado)
 -Crecimiento del número de viajes diarios a lo largo del tiempo
 -Total de viajes por usuarios, según género, edad y/o tipo de subscripción
 
- una base de datos bancaria con información de los créditos concedidos por el Banco y el comportamiento de pago; además de calcular el riesgo relativo para algunas variables que permitan identificar que cliente puede ser de alto riesgo o no. 
-
 
 ## ¿Qué insumos/herramientas usamos para el análisis?  
 
